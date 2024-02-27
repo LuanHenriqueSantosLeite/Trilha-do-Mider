@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(118, 199, 199);
+}
+
+h1 {
+        font-family: "Rubik Glitch Pop", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        font-size: 500%;
+
+}
+
+h2 {
+        font-family: "Protest Riot", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        font-size: 300%;
+}
+
+h3 {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+    text-align: center;
+    font-size: 250%;
+}
+
+.parte1 {
+  border-color: black;
+  border-style: ridge;
+}
+
+h1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 20%;
+    border-left: 20%;
+    padding: 3px;
+}
